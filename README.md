@@ -1,5 +1,5 @@
 # Dataset-Formats-Conversion
-Dataset Formats Conversion
+Computer Vision Dataset Formats Conversion
 
 ### VOC to COCO converter
 To convert dataset from VOC to COCO go to folder "voc2coco"
