@@ -1,0 +1,6 @@
+create classes.names file with all the classes in output folder for example yolo
+
+Then run this command:
+
+python3 example.py --datasets VOC --img_path images --label annotations/ --convert_output_path yolo --img_type ".png" --manipast_path yolo/ --cls_list_file yolo/class.names
+

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cumbaru_13_setembro_2018</folder>
+	<filename>DJI_0003.JPG</filename>
+	<path>/home/aluno/Área de Trabalho/cumbaru_dji_phantom4/cumbaru_13_setembro_2018/DJI_0003.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>teste4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>864</xmin>
+			<ymin>118</ymin>
+			<xmax>4432</xmax>
+			<ymax>3518</ymax>
+		</bndbox>
+	</object>
+</annotation>

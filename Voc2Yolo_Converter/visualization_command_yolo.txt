@@ -1,0 +1,2 @@
+make sure your images folder contains only images and label_path contains only .txt files with bboxes and label.
+python3 label_visualization.py --datasets YOLO --img_path images/ --label_path yolo/ --img_type .png --cls_list_file ./class.names
