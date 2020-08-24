@@ -21,3 +21,15 @@ Reference: [Orignal](https://github.com/ssaru/convert2Yolo)
 
 ### yolo to coco
 Use YOLO 2 VOC>>>VOC 2 COCO
+
+## Support
+
+You like this work, Give it a 🌟
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
